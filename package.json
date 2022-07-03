@@ -2,8 +2,8 @@
   "dependencies": {
     "style-dictionary": "^3.7.1"
   },
-  "name": "design-tokens-meiuca",
-  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary build ```",
+  "name": "@renoeno/design-tokens-meiuca",
+  "description": "Biblioteca de Design Tokens para o Curso Design System in Code da Meiuca",
   "version": "0.1.0",
   "main": "index.js",
   "devDependencies": {},

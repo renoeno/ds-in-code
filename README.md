@@ -1,3 +1,3 @@
-# Design system in code
+# Design system in code tokens
 
-Arquivos criados durante o curso Design System in Code, da Meiuca
+Biblioteca de Design Tokens para o Curso Design System in Code da Meiuca
