@@ -6,6 +6,10 @@
   "description": "Biblioteca de Design Tokens para o Curso Design System in Code da Meiuca",
   "version": "0.1.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renoeno/ds-in-code-assets"
+  },
   "devDependencies": {},
   "scripts": {
     "build": "node src/index.js",
